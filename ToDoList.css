@@ -1,0 +1,24 @@
+body{
+   background-color: #f0f0f0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   height: 100vh;
+   width: 100vw;
+}
+
+i{
+   cursor: pointer;
+   
+}
+
+.title{
+   letter-spacing: 1px;
+   margin: 30px 0;
+}
+
+.list-group{
+   padding-top: 20px;
+   margin: 0 auto;
+}
